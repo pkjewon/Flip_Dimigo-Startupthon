@@ -1,4 +1,4 @@
-export const SERVICE_NAME = "flip";
+export const SERVICE_NAME = "Flip";
 export const SERVICE_TAGLINE = "원하는 옷을 말하면, 판매자가 찾아와요";
 
 // DB categories 테이블과 같은 값 (supabase/migrations/0001_init.sql)
