@@ -1,6 +1,6 @@
 # Flip (역방향 패션 쇼핑)
 
-소비자가 원하는 옷을 요청하면 판매자가 댓글로 상품을 제안하는 웹 서비스. 기획은 [PRD.md](PRD.md), 디자인 시안은 [motif-market.html](motif-market.html).
+소비자가 원하는 옷을 요청하면 판매자가 댓글로 상품을 제안하는 웹 서비스. 기획은 [PRD.md](PRD.md), 디자인 시안은 [motif-market.html](public/motif-market.html).
 
 ## 기술 스택
 Next.js 16 (App Router) + TypeScript + Tailwind CSS 4 / Supabase (Postgres, Auth, Storage) / Vercel
